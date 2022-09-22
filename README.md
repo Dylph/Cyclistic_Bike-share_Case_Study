@@ -2,7 +2,7 @@
 ### Desmond
 ### September 2022
 
-The Goal of this case study is to use the data provided by the company to design marketing strategies aimed at converting casual riders into annual members.
+The Goal of this case study is to use the data provided by the company, ** Cyclistic ** to design marketing strategies aimed at converting casual riders into annual members.
 
 The business task includes :
 1. A clear statement of the business task
