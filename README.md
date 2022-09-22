@@ -14,7 +14,8 @@ The business task includes :
 
 All the data cleaning and manipulation process are done in R (Kaggle) and then analyzed and visualized in Tableau.
 
-[R Process](https://www.kaggle.com/code/dylphion/cyclistic-bike-share-case-study)
-[Tableau](https://public.tableau.com/views/CapstoneProject-CyclisticCaseStudy/Story_1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[R Process in Kaggle](https://www.kaggle.com/code/dylphion/cyclistic-bike-share-case-study)
+
+[Data Visualization in Tableau](https://public.tableau.com/views/CapstoneProject-CyclisticCaseStudy/Story_1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Thank You
