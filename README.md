@@ -1,5 +1,6 @@
 # Capstone Project - Google Data Analytics Case Study
-September 2022
+### Desmond
+### September 2022
 
 The Goal of this case study is to use the data provided by the company to design marketing strategies aimed at converting casual riders into annual members.
 
